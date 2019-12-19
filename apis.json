@@ -1,0 +1,64 @@
+{
+    "name": "Digital Intent",
+    "description": "Chicago based product development - Strategy, User Experience, Web and Mobile Development and Marketing Consulting.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8761-digital-intent.jpg",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/digital-intent\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Digital Intent",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8761-digital-intent.jpg",
+            "humanURL": "http:\/\/www.digintent.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digital-intent-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digital-intent-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/digital-intent"
+        },
+        {
+            "type": "Email",
+            "url": "inquire@digintent.com"
+        },
+        {
+            "type": "Email",
+            "url": "jordan@digintent.com"
+        },
+        {
+            "type": "Email",
+            "url": "matt.mccabe@digintent.com"
+        },
+        {
+            "type": "Email",
+            "url": "sean@digintent.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/digintent"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.digintent.com\/"
+        }
+    ]
+}
